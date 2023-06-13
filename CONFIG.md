@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+apple-feed
 
 # displayName
 
@@ -26,7 +26,7 @@ A feed of Apple discussion
 >
 
 - https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- tim cook
+- "iOS 17"
 - wwdc
 - wwdc23
 - #wwdc23
