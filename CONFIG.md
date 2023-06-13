@@ -25,7 +25,7 @@ A feed of Apple discussion
 > - Keywords (maximum 5 terms): Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
 >
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
+- https://bsky.app/profile/mergesort.me/post/3jxz5v35ips2l
 - "iOS 17"
 - wwdc
 - wwdc23
