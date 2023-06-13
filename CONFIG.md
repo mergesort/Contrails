@@ -9,13 +9,13 @@ emotional-support-pets
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Apple Feed
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+A feed of Apple discussion
 
 # searchTerms
 
@@ -26,11 +26,11 @@ Cute animals feed
 >
 
 - https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- tim cook
+- wwdc
+- wwdc23
+- #wwdc23
+- #wwdc
 
 # avatar
 
